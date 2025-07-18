@@ -88,26 +88,20 @@ Mini_E_commerce_Cart_System_with_Stripe_Integration/
 ## Screenshots
 
 ### 🛒 Product Listing Page
-![Product Page](<img width="1919" height="930" alt="Screenshot 2025-07-19 001250" src="https://github.com/user-attachments/assets/75bcf3c9-01b5-4771-8a03-33cc4c209751" />
-)
+![Product Page](https://github.com/user-attachments/assets/75bcf3c9-01b5-4771-8a03-33cc4c209751)
 
 ### 🧺 Cart Page
-![Cart Page](<img width="1920" height="928" alt="Screenshot 2025-07-19 001338" src="https://github.com/user-attachments/assets/df810c8b-0287-4804-8861-b93e24cdf4b8" />
-)
+![Cart Page](https://github.com/user-attachments/assets/df810c8b-0287-4804-8861-b93e24cdf4b8)
 
 ### 💳 Stripe Checkout
-![Checkout](<img width="1920" height="925" alt="Screenshot 2025-07-19 001408" src="https://github.com/user-attachments/assets/0a5e8d63-5160-41da-80a4-71bf4a910a2d" />
-)
+![Checkout](https://github.com/user-attachments/assets/0a5e8d63-5160-41da-80a4-71bf4a910a2d)
 
-### 💳 Payment Success
-![Checkout](<img width="1920" height="927" alt="Screenshot 2025-07-19 001518" src="https://github.com/user-attachments/assets/83e08c92-4e19-48bb-bbdc-a934c90b1a99" />
+### ✅ Payment Success
+![Success](https://github.com/user-attachments/assets/83e08c92-4e19-48bb-bbdc-a934c90b1a99)
 
-)
+### 📊 Stripe Dashboard - Payment Details
+![Stripe Dashboard](https://github.com/user-attachments/assets/5ec3b53d-5d9e-4751-8402-0291133eb32b)
 
-### 💳 Payment details in Stripe Dashboard
-![Checkout](<img width="1176" height="653" alt="Screenshot 2025-07-19 001709" src="https://github.com/user-attachments/assets/5ec3b53d-5d9e-4751-8402-0291133eb32b" />
-
-)
 
 ---
 
